@@ -1,0 +1,19 @@
+/* 
+Theme Name: My Project
+Theme URI: #
+
+Description: A brief description of your theme.
+
+Version: 1.0
+
+Author: Saif Ahmad
+Author URI: #
+
+Text Domain: saifahmad
+
+Tags: one-column, flexible header
+*/
+
+body{
+    background: salmon;
+}

@@ -18,3 +18,5 @@
 
     
 
+    // Registering Widgets
+    include('inc/register_widget.php');

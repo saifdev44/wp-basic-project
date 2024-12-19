@@ -6,7 +6,7 @@
         <div class="container">
             <div class="row">
                 <div class="col-md-12">
-                    My page content
+                    <h1>404 Page not found</h1>
                 </div>
             </div>
         </div>

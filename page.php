@@ -1,4 +1,3 @@
-
 <?php
     get_header();
 ?>
@@ -6,7 +5,7 @@
         <div class="container">
             <div class="row">
                 <?php
-                    get_template_part('template_part/blog_setup');
+                    get_template_part('template_part/post_setup');
                 ?>
 
                 <div class="col-md-3">
